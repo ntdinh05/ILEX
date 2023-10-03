@@ -18,7 +18,3 @@ The project runs well at **Windows, Python 3.9.6** and these libraries versions:
 5. pynput 1.6.8
 6. PyAutoGUI 0.9.53
 7. protobuf 3.20.0
-
-**To use:**
-1. After installing needed materials, run it!
-2. You would see that in the 
