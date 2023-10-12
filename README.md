@@ -29,12 +29,12 @@ CAUTION: You cannot use mouse, trackpad and keyboard to interact with this appli
 - Don't raise your hand in front of your webcam yet!
 - Do an "OK hand sign". Than separate your thumb finger and index finger. Like this: https://drive.google.com/file/d/1kPPFMCJD9ctG1gGwp-v8k4NX_RA4tYpj/view?usp=sharing
 - Now raise your hand in front of the webcam. Remember to always keep your thumb and index parallel with your webcam (like the picture in the link above).
-- Now move your hand to MOVE the cursor on the app. Touch your thumb and index as the "OK hand sign" to CLICK.
+- Now move your hand to MOVE the cursor on the app. Touch your thumb and index once (as the "OK hand sign") to CLICK.
 - Select your language and your method to interact, then you will get to the main menu!
 
 If you select face:
 - Move and keep your head parallel with the webcam to MOVE the cursor.
-- Open your mouth to CLICK.
+- Open your mouth once to CLICK.
 
 If you select hand: interact as intructed above.
   
