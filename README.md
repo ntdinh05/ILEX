@@ -4,8 +4,6 @@
 
 Hi there. Welcome to my project! This Computer Vision application in Python offering interactive learning experience (based on Vietnam's curriculum) for elementary school students and enhancing computer accessibility for students with hand disabilities.
 
-I did this project with @DPhuoc since I was in grade 11th in high school. Our work began in Sep 2021 ended in March 2022. We won awards at 3 national contests for research and technology solutions for students in Vietnam and was recognized on Vietnam’s well-known news sites.
-
 -----------------------------------
 
 **INSTALLATION**
